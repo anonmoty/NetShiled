@@ -1,0 +1,9 @@
+# Block 82.180.145.98
+iptables -A OUTPUT -d 82.180.145.98 -j DROP
+
+# Block 104.26.8.134
+iptables -A OUTPUT -d 104.26.8.134 -j DROP
+
+# Block 18.66.57.62
+iptables -A OUTPUT -d 18.66.57.62 -j DROP
+
